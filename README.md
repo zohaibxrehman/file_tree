@@ -9,7 +9,7 @@
   ===== temp (d750) =====
     a.txt (-640)
     link (l777)
-    link_ftree.c (-640)
+    ftree_link.c (-640)
   ftree.h (-644)
   print_ftree.c (-644)
  
