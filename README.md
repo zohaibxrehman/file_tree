@@ -1,6 +1,6 @@
  The program constructs an FTree representing a file tree rooted at the file specified by the user. This can then be visualized.
  
- Sample Usage on the terminal( on a populated folder):
+ Sample Usage on the terminal (on a populated folder):
  ```sh
  
  $ make
